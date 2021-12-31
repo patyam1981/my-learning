@@ -28,5 +28,8 @@
 /public/assets
 
 # Ignore master key for decrypting credentials and more.
+/config/*
 /config/master.key
+/config/credentials.yml.enc
 /config/secrets.yml
+
